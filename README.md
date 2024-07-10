@@ -1,1 +1,1 @@
-# phpcode
+This project is an e-commerce website built on technologies that are neither simple nor difficult at the same time. It is an ideal project for anyone who wants to apply everything he has learned in html, css, java script, php, bootstrap, sql and databases without using object-oriented programming or even desing patterns. It is an incentive for anyone who wants to The work begins and produces something from nothing. Only simple things produce a complete, dynamic, responsive website that deals with databases smoothly.
